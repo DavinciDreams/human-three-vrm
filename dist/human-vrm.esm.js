@@ -74046,7 +74046,7 @@ var clock;
 var human;
 var res;
 var humanConfig = {
-  modelBasePath: "https://vladmandic.github.io/human-models/models",
+  modelBasePath: "https://github.com/DavinciDreams/human-three-vrm/blob/main/assets/CC_Model_Clonex.vrm",
   face: {
     enabled: true,
     detector: { return: false, rotation: true },
